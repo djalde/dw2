@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+  font-size: 0.9375rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #495057;
+  text-align: left;
+  background-color: #f5f7fb;
+}
+
+.avatar {
+  vertical-align: middle;
+  width: 3rem;
+  height: 3rem;
+  border-radius: 50%;
+}
+
+#dollar {
+    background-color: blue;
+    color:white;
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: 1rem;
+  }
+
+#shop {
+  background-color: green;
+  color:white;
+  padding: 1rem;
+  border-radius: 10px;
+  font-size: 1rem;
+  }
+  #users {
+    background-color: red;
+    color:white;
+    padding: 1rem;
+    border-radius: 10px;
+    font-size: 1rem;
+    }
+    #carta {
+      background-color: yellow;
+      color:white;
+      padding: 1rem;
+      border-radius: 10px;
+      font-size: 1rem;
+      }
+
+
+  
+  h1 a {
+    color:black;
+    font-size: 1rem;
+    text-align: center;
+  }
+  p {
+    font-size: 1rem;
+  }
+
+  #gr {
+    color:green;
+  }
+  #re {
+    color:red;
+  }
+
+  #tr {
+    color:blue;
+  }
+  
